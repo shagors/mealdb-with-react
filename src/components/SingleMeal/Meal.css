@@ -1,0 +1,8 @@
+.c-bd img{
+    width: 286px;
+    height: 286px;
+}
+.cf{
+    display: flex;
+    justify-content: space-around;
+}
